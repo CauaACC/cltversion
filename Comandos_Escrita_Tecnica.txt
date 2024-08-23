@@ -1,0 +1,4 @@
+git commit -m "mensagem do commit"
+git commit -m "Correção de bug na função de login"
+git push [origin] [branch]
+git push [origin] [branch]
